@@ -37,6 +37,9 @@ If this tool saved you hours of work, consider supporting its development. Donat
 ## 🚀 Quick Start
 
 1. Download `photo-video-organizer.exe` from the [Releases](../../releases) section.
+   - **Recommended Browsers**: Using **Firefox** or **Vivaldi** is preferred, as they typically allow the download without additional warnings.
+   - **Note for Microsoft Edge**: You may see a warning that the file is "not commonly downloaded." To proceed, click the **three dots (...)** next to the download, select **Keep**, and then **Show more -> Keep anyway**.
+   - **Note for Work Laptops**: On some managed work environments, downloading `.exe` files from GitHub may be disabled by system policy.
 2. Select your **Source Folder** (the chaos) and your **Destination Folder**.
 3. Review the warning and hit **Proceed**.
 
