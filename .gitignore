@@ -1,0 +1,30 @@
+# Ignore build artifacts
+/target/
+Cargo.lock
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Config files (user-specific)
+config.json
+
+# Test directories
+test_src/
+test_dst/
+
+# Build output
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Keep assets but ignore generated .ico if needed
+# assets/icon.ico
